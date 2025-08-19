@@ -1,2 +1,2 @@
 # Examination_System
-![App Screenshot](ClassDiagarm.drowio.png)
+<img src="ClassDiagram.drowio.png" alt="Examination System Diagram" width="400"/>
