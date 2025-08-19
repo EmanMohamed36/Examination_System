@@ -1,0 +1,14 @@
+F:\RouteAcademy\Exam02\Exam02\Exam02\bin\Debug\net8.0\Exam02.exe
+F:\RouteAcademy\Exam02\Exam02\Exam02\bin\Debug\net8.0\Exam02.deps.json
+F:\RouteAcademy\Exam02\Exam02\Exam02\bin\Debug\net8.0\Exam02.runtimeconfig.json
+F:\RouteAcademy\Exam02\Exam02\Exam02\bin\Debug\net8.0\Exam02.dll
+F:\RouteAcademy\Exam02\Exam02\Exam02\bin\Debug\net8.0\Exam02.pdb
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\Exam02.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\Exam02.AssemblyInfoInputs.cache
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\Exam02.AssemblyInfo.cs
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\Exam02.csproj.CoreCompileInputs.cache
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\Exam02.dll
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\refint\Exam02.dll
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\Exam02.pdb
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\Exam02.genruntimeconfig.cache
+F:\RouteAcademy\Exam02\Exam02\Exam02\obj\Debug\net8.0\ref\Exam02.dll
