@@ -1,2 +1,2 @@
 # Examination_System
-<img src="ClassDiagram.drowio.png" alt="Examination System Diagram" width="400"/>
+<img src="ClassDiagram.drawio.png" alt="Examination System Diagram" width="400"/>
