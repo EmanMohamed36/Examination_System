@@ -3,7 +3,7 @@
 
 <img src="ExaminationSystemMain.png" alt="Examination System Diagram" width="400"/>
 
-# 📘 Project Overview
+## 📘 Project Overview
 
 This project is an Examination System designed to manage subjects, exams, questions, and answers. It demonstrates Object-Oriented Programming (OOP) concepts such as inheritance, polymorphism, interfaces, constructor chaining, and overriding methods.
 
@@ -11,7 +11,7 @@ The system supports two types of exams:
 Final Exam – Includes True/False and MCQ questions.
 Practical Exam – Includes True/False and MCQ questions.
 
-# 🏗️ System Features
+## 🏗️ System Features
 
 1. Question Management
   * Base Question class to represent:
@@ -43,6 +43,6 @@ Practical Exam – Includes True/False and MCQ questions.
    * Associated Exam
   * Provides functionality to create and assign exams to subjects.
 
-# CLass Diagram :
+## CLass Diagram :
 
 <img src="ClassDiagram.drawio.png" alt="Examination System Diagram" width="400"/>
