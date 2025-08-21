@@ -1,5 +1,5 @@
 # Examination_System
-# Main View:
+## Main View:
 
 <img src="ExaminationSystemMain.png" alt="Examination System Diagram" width="400"/>
 
