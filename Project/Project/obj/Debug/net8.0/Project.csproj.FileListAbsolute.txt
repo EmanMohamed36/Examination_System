@@ -1,0 +1,14 @@
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\Project.GeneratedMSBuildEditorConfig.editorconfig
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\Project.AssemblyInfoInputs.cache
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\Project.AssemblyInfo.cs
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\Project.csproj.CoreCompileInputs.cache
+F:\RouteAcademy\Project\Project\bin\Debug\net8.0\Project.exe
+F:\RouteAcademy\Project\Project\bin\Debug\net8.0\Project.deps.json
+F:\RouteAcademy\Project\Project\bin\Debug\net8.0\Project.runtimeconfig.json
+F:\RouteAcademy\Project\Project\bin\Debug\net8.0\Project.dll
+F:\RouteAcademy\Project\Project\bin\Debug\net8.0\Project.pdb
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\Project.dll
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\refint\Project.dll
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\Project.pdb
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\Project.genruntimeconfig.cache
+F:\RouteAcademy\Project\Project\obj\Debug\net8.0\ref\Project.dll
